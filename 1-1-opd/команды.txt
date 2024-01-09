@@ -1,0 +1,99 @@
+...:::Задание 1:::...
+mkdir Lab0
+cd Lab0
+echo "Развитые способности Marvel Scale" > grovyle3
+echo -e "Способности\nFocus Thick Fat Guts" > makuhita6
+mkdir pupitar8
+cd pupitar8
+mkdir munchlax
+echo -e "Способности Torrent Suction Cups\nSniper" > octillery
+echo "Живет Cave Desert Mountain" > darumaka
+echo -e "satk=7 sdef=7\nspd=4" > quagsire
+echo -e "Возможности Overland=10 Surface=1 Jump=6 Power=3\nIntelligence=4" > doduo
+mkdir lickitung
+cd ..
+echo -e "Возможности Overland=6 Surface=4 Burrow=2\nJump=1 Power=2 Intelligence=4 Sprouter=0 Stealth=0" > snivy8
+mkdir weedle9
+cd weedle9
+echo -e "Возможности\nOverland=3 Surface=6 Underwater=6 Sky=4 Jump=2 Power=1 Intelligence=4\nZapper=0 Glow=0" > tynamo
+echo "Живет Cave Grassland Urban" > igglybuff
+mkdir seadra
+echo -e "Ходы\nDark Pulse Defense Curl Double-Edge Dark Pulse Dynamicpunch Focus\nPunch Foul Play Fury Cutter Ice Punch 
+Icy Wind Iron Tail Knock Off Low\nKick Mud-Slap Sleep Talk Snatch Snore Spite\nSwift" > sneasel
+echo -e "Способности This is dummy text when pokemon does not\ncontain something. It is better than NPE!" > ludicolo
+mkdir gible
+cd ..
+mkdir zigzagoon2
+cd zigzagoon2/
+echo -e "weigth=4.4\nheight=12.0 atk=6 def=3" > spearow
+echo -e "Тип диеты\nCarnivore" > poochyena
+echo -e "Способности Swarm Mach Speed Shield Dust\nCompoundeyes" > mothim
+echo "satk=11 sdef=9 spd=3" > sunflora
+mkdir meganium
+mkdir swampert
+
+
+...:::Задание 2:::...
+cd Lab0
+chmod 400 grovyle3
+chmod 046 makuhita6
+chmod 736 pupitar8/
+cd pupitar8/
+chmod 737 munchlax/
+chmod 006 octillery
+chmod 604 darumaka
+chmod 064 quagsire
+chmod 440 doduo
+chmod 573 lickitung/
+cd ..
+chmod 620 snivy8
+chmod 753 weedle9/
+cd weedle9/
+chmod 444 tynamo
+chmod 044 igglybuff
+chmod 551 seadra/
+chmod 600 sneasel
+chmod 666 ludicolo
+chmod 513 gible/
+cd ..
+chmod 333 zigzagoon2/
+cd zigzagoon2/
+chmod 620 spearow
+chmod 644 poochyena
+chmod 004 mothim
+chmod 440 sunflora
+chmod 752 meganium/
+chmod 355 swampert/
+
+...:::Задание 3:::...
+cp grovyle3 pupitar8/lickitung/
+//error
+cd pupitar8/
+chmod 773 lickitung
+cd ..
+cp grovyle3 pupitar8/lickitung/
+ln -s ~/zigzagoon2/ Copy_29
+cat makuhita6 > zigzagoon2/sunfloramakuhita
+//error
+chmod 446 makuhita6
+cat makuhita6 > zigzagoon2/sunfloramakuhita
+
+
+...:::Задание 4:::...
+grep -l "" **/*o
+wc -m pupitar/doduo weedle9/ludicolo weedle9/tynamo | sort -r
+ls -Rlu | grep -e "se" | head -n 2
+ls -R weedle9/ 2> tmp/errors | sort
+
+
+
+
+
+
+
+
+
+
+
+
+

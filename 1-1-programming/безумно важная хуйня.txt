@@ -1,0 +1,29 @@
+Антон Валерьевич
+Пароль от хелиус
+DUbN$1674
+консольная команда для подключения к хелиос:
+ssh -p 2222 s368892@helios.cs.ifmo.ru
+
+javac Hello.java
+jar -cfm app.jar MANIFEST.mf Hello.class
+java -jar Hello.jar
+
+
+в отчете должны быть фи, вывод
+
+ViM
+
+
+-p -k -a (-pka) ключи 
+
+экранирование
+спецсимволы
+преенаправление потоков
+ls -l
+права доступа
+
+head 
+tail
+sort
+wc
+grep

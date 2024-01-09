@@ -1,0 +1,71 @@
+<data>
+	<SpaceMarine>
+		<id type="Long">1</id>
+        <name type="String">Abobus</name>
+        <coordinates type="Coordinates">
+            <x type="Integer">10</x>
+            <y type="Double">11.123</y>
+        </coordinates>
+        <creationDate type="java.util.Date">7312-03-21</creationDate>
+        <health type="Double">89.426378</health>
+        <achievements type="String">Good Boy</achievements>
+        <weaponType type="Weapon">BOLT_RIFLE</weaponType>
+        <meleeWeapon type="MeleeWeapon">CHAIN_AXE</meleeWeapon>
+        <chapter type="Chapter">
+            <name type="String">First</name>
+            <marinesCount type="Long">100012</marinesCount>
+        </chapter>
+	</SpaceMarine>
+
+    <SpaceMarine>
+		<id type="Long">623462</id>
+        <name type="String">Amogus</name>
+        <coordinates type="Coordinates">
+            <x type="Integer">53</x>
+            <y type="Double">645.19765213</y>
+        </coordinates>
+        <creationDate type="java.util.Date">2004-05-02</creationDate>
+        <health type="Double">0.001</health>
+        <achievements type="String">Instructor</achievements>
+        <weaponType type="Weapon">COMBI_FLAMER</weaponType>
+        <meleeWeapon type="MeleeWeapon">MANREAPER</meleeWeapon>
+        <chapter type="Chapter">
+            <name type="String">Second</name>
+            <marinesCount type="Long">623478</marinesCount>
+        </chapter>
+	</SpaceMarine>
+    <SpaceMarine>
+		<id type="Long">6743212391</id>
+        <name type="String">Ablobus</name>
+        <coordinates type="Coordinates">
+            <x type="Integer">82</x>
+            <y type="Double">738.752389</y>
+        </coordinates>
+        <creationDate type="java.util.Date">8901-01-31</creationDate>
+        <health type="Double">99.9</health>
+        <achievements type="String">PENTAKILL</achievements>
+        <weaponType type="Weapon">GRAV_GUN</weaponType>
+        <meleeWeapon type="MeleeWeapon">LIGHTING_CLAW</meleeWeapon>
+        <chapter type="Chapter">
+            <name type="String">Enemy in reflection</name>
+            <marinesCount type="Long">62381310</marinesCount>
+        </chapter>
+	</SpaceMarine>
+    <SpaceMarine>
+		<id type="Long">9876543210</id>
+        <name type="String">Ababus</name>
+        <coordinates type="Coordinates">
+            <x type="Integer">99</x>
+            <y type="Double">99.99</y>
+        </coordinates>
+        <creationDate type="java.util.Date">9999-12-31</creationDate>
+        <health type="Double">50.0</health>
+        <achievements type="String">First blood</achievements>
+        <weaponType type="Weapon">MISSILE_LAUNCHER</weaponType>
+        <meleeWeapon type="MeleeWeapon">POWER_BLADE</meleeWeapon>
+        <chapter type="Chapter">
+            <name type="String">New</name>
+            <marinesCount type="Long">7203910</marinesCount>
+        </chapter>
+	</SpaceMarine>
+</data>

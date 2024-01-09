@@ -1,0 +1,21 @@
+<schedule>
+    <firstlesson>
+        <name>Программирование(Лаб)</name>
+        <name>Программирование(Лаб)</name>
+        <name>Программирование(Лаб)</name>
+        <time>13:30-15:00</time>
+        <time>13:30-15:00</time>
+        <time>13:30-15:00</time>
+        <time>13:30-15:0O</time>
+        <place>ул.Кронверкский пр., д.49, лит. А</place>
+        <teacher>Гаврилов Антон Валерьевич</teacher>
+        <format>Очно - дистанционный</format>
+    </firstlesson>
+    <secondlesson>
+        <name>Программирование(Лаб)</name>
+        <time>15:20-16:50</time>
+        <place>ул.Кронверкский пр., д.49, лит. А</place>
+        <teacher>Гаврилов Антон Валерьевич</teacher>
+        <format>Очно - дистанционный</format>
+    </secondlesson>
+</schedule>

@@ -1,0 +1,3 @@
+D:/ITMO/2kurs/1sem/proglang/stepik/cmake-build-debug/CMakeFiles/stepik.dir
+D:/ITMO/2kurs/1sem/proglang/stepik/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ITMO/2kurs/1sem/proglang/stepik/cmake-build-debug/CMakeFiles/rebuild_cache.dir
