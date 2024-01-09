@@ -1,28 +1,7 @@
 <p align="center">
-      <img src="Project Logo Url" width="726">
-</p>
-
-<p align="center">
-   <img src="" alt="Unity Version">
-   <img src="" alt="Game Version">
-   <img src="" alt="License">
+      <img src="https://itmo.ru/file/pages/213/slogan_belyy.png" width="726">
 </p>
 
 ## About
 
-About Text Here
-
-## Documentation
-
-Documentation Here
-
-## Distribute
-
-- [Service Name](Page Link)
-
-
-## Developers
-
-- [Delevoper Name](GitHub Profile Link)
-
-## License
+Created by ITMO student Takhvatulin Mikhail
